@@ -20,6 +20,7 @@
 ```
 // cd to the project directory
 jupyter notebook
+utils is needed to run labs and projects
 ```
 
 ## Author
